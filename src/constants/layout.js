@@ -12,7 +12,7 @@ export const Spacings = {
 
 export const Borders = {
   RADIUS: {
-    BUTTON: 30,
+    BUTTON: 10,
     CARD: 20,
     LIST: 15,
   },

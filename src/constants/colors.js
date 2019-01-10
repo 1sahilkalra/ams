@@ -22,6 +22,9 @@ export const Colors = {
     azure: '#0E84FF',
     polo: '#78899E',
   },
+  red: {
+    dark: '#FF301C',
+  },
 }
 
 export const BackgroundColor = {
