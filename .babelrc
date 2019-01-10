@@ -1,3 +1,23 @@
 {
+<<<<<<< HEAD
+  "presets": ["module:metro-react-native-babel-preset"],
+  "plugins": [
+    [
+      "module-resolver",
+      {
+        "alias": {
+          "componets": "./src/components",
+          "constants": "./src/constants",
+          "dataSet": "./src/data",
+          "lib": "./src/lib",
+          "navigation": "./src/navigation",
+          "screens": "./src/screens"
+        },
+        "cwd": "babelrc"
+      }
+    ]
+  ]
+=======
   "presets": ["module:metro-react-native-babel-preset"]
+>>>>>>> 255deeaced05a1699ce9c7de6677831419623b3c
 }
